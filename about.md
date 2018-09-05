@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a junior at Hunter College.I am currently 19. My major is computer science.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy watching netflix and playing video games. 
 
